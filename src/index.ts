@@ -1,3 +1,4 @@
+/* rexports */
 export * from './errors/bad-request-error'
 export * from './errors/custon-error'
 export * from './errors/database-connection-error'
